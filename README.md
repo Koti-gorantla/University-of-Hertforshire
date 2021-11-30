@@ -1,4 +1,4 @@
-#### The task ####
+#### The Task ####
 Of all the technological developments going on right now, what concerns our team the most? Why?  
 
 Our team have identified 1 ethical issue, 1 legal issue and 1 professional issue (based on the BCS code of conduct) that apply to our technological development or technology. We have justified our choices, suggested possible remedies or mitigations and also critically reflect on them.
